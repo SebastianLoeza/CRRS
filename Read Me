@@ -1,0 +1,11 @@
+Thank you for checking my Clash Royale Recommendation System.
+
+This project has the goal to help the user increase the probabilities of 
+defeating his opponent in the videogame Clash Royale with special focus on the 
+competitive environment.
+
+● Using the Api of Clash Royale we obtain the most used card of the opponent and 
+through a graphic interface developed with Python the system recommends 3 decks the 
+user should play to beat the opponent;
+● The project was tested with different players which won a total of 13 games out of
+20 we tested.
